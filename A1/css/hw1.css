@@ -17,12 +17,9 @@ section {
     background-color: #767676;
 }
 
-nav {
-    color: #000000;
-}
-
 a {
     background-color: #C9C9C9;
+    color: #000000;
 }
 
 aside {
